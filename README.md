@@ -13,7 +13,4 @@ https://www.canva.com/design/DAGNF9CZAoI/E0ivkvpPcfbjmVWARDKuqA/view?utm_content
 https://github.com/user-attachments/assets/1b8b166b-3a12-450a-8997-2d52059e433f
 
 # Documentations 
-● Links
-
-
-● Docs
+https://docs.google.com/document/d/1GCE90oqYGqU_rzfUNV8WoRJ2LG78wzd9gEpm4NbX3u8/edit
