@@ -18,3 +18,5 @@ https://docs.google.com/document/d/1GCE90oqYGqU_rzfUNV8WoRJ2LG78wzd9gEpm4NbX3u8/
 
 # Project Report
 [Final Report Ardent Grp (1).pdf](https://github.com/user-attachments/files/16608651/Final.Report.Ardent.Grp.1.pdf)
+
+[Project Report prsnl.pdf](https://github.com/user-attachments/files/16861186/Project.Report.prsnl.pdf)
